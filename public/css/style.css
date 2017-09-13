@@ -1,0 +1,23 @@
+input, .btn {
+    margin-bottom: 10px;
+    margin-top: 10px;
+
+}
+
+.btn{
+    background-color: #5c6ac4;
+}
+
+body {
+    background-color: #000639;
+    font-size: 16px;
+    color: #FFF;
+    text-align: center;
+    margin: 50px;
+}
+
+h1{
+    font-size: 24px;
+    color: #FFF;
+    text-align: center;
+}
